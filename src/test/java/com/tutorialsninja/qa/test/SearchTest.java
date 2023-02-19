@@ -9,8 +9,9 @@ import org.testng.annotations.Test;
 import com.tutorialsninja.qa.base.Base;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.SearchPage;
-
+//this is the updated code.
 public class SearchTest extends Base{
+	
 	public WebDriver driver;
 	HomePage homePage;
 	SearchPage searchPage;
